@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672931234 source:c:\users\user\downloads\tubes hygeacantik\main.cpp
+	"olim.h"
+
+1672931233 c:\users\user\downloads\tubes hygeacantik\olim.h
+	<iostream>
+
+1672931272 source:c:\users\user\downloads\tubes hygeacantik\olim.cpp
+	"olim.h"
+
